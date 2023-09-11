@@ -66,11 +66,6 @@ function Card(props) {
           {/* <p className="warning">NO RESULTS</p> */}
         </div>
       </div>
-      {!numbPeople && !selectedLocation ? (
-        ""
-      ) : (
-        <p className="nodata">NO DATA</p>
-      )}
     </>
   );
 }
