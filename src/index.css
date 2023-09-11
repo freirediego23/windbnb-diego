@@ -127,6 +127,12 @@
   margin: 1px solid white;
 }
 
+.nodata {
+  font-size: 20px;
+  margin-top: 15px;
+  margin-left: 14px;
+}
+
 input {
   border-radius: 8px;
 }
